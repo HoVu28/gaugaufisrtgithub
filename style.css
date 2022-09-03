@@ -17,7 +17,7 @@ body {
 .banner {
     height: 500px;
     background: url('./banner.jpg') center center no-repeat;
-    pading: 20px;
+    padding: 20px;
 }
 
 .about-sign-in {
